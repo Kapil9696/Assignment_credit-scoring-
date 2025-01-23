@@ -14,8 +14,7 @@ The primary objectives of this project are:
 
 ## Data
 
-The dataset used in this project is `credit.csv`, located in the `data/` directory. This dataset contains information about customers applying for loans, including demographic data, loan details, credit history, and their actual defaulting behavior (the target variable). A detailed description of the data structure can be found in the original assignment document (if applicable, link to it here).
-
+The dataset used in this project is `credit.csv`, located in the  directory. This dataset contains information about customers applying for loans, including demographic data, loan details, credit history, and their actual defaulting behavior (the target variable).
 ## Notebooks
 
 The core analysis and modeling process is implemented in the `notebooks/credit_scoring.ipynb` Jupyter Notebook. This notebook covers the following steps:
