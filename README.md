@@ -35,11 +35,11 @@ The core analysis and modeling process is implemented in the `notebooks/credit_s
     *   (Add other key EDA findings here)
 
 *   **Model Performance:**
-    *   Accuracy: 79.00%
-    *   Sensitivity/Recall: 79.29%
-    *   Specificity: 77.42%
-    *   Precision: 95.04%
-    *   AUC: 0.76
+    *   Accuracy: 84.00%
+    *   Sensitivity/Recall: 87%
+    *   Specificity: 81.42%
+    *   Precision: 81.04%
+    *   AUC: 0.94
 
 *   **Feature Importance:**
 
@@ -63,8 +63,8 @@ The core analysis and modeling process is implemented in the `notebooks/credit_s
 | `personal_status`            | 1.20       |
 | `dependents`                 | 1.06       |
 
-*   **Business Impact Estimation:** Based on example values (replace with your calculations):
-    *   Estimated monthly savings: €398,000
+*   **Business Impact Estimation:
+
 
 ## Instructions for Running the Notebook
 
